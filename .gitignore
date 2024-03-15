@@ -1,4 +1,4 @@
 *.zip
-/data_subdatasets/*
+/working/*
 /data/tl_2020_us_zcta520/*
 .env
